@@ -5,9 +5,13 @@ Rounds:
   2) Standup
   
 Questions:
+  
   What did you do yesterday?
+  
   What are you doing today?
+  
   Any blockers?
+  
   Work load
   
 Delegation
