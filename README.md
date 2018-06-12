@@ -1,5 +1,12 @@
-# ab
-line two 
+# Standup checklist
+Prep:
+Questions: 
+
+Challenges:
+
+Purpose:
+
+Reference points. 
 AB
 SB
 BB
