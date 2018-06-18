@@ -30,7 +30,7 @@ Delegation:
 Rubric: 
    5 operationally useful data driven land fast. know where pressure might come from and how we adapt of needed. under 10 minutes. 
    
-| qualities | Time          | Topics  |||
+| qualities | Purpose |time  |departing |participation|
 | -----------: |:-------------:| -----: |-----:| -----:|
 | col 3 is      | right-aligned | $1600 |||
 | col 2 is      | centered      |   $12 |||
