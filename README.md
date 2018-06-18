@@ -3,6 +3,7 @@ Prep:
 Rounds:
   1) Frank facts
   2) Standup
+  3) optin 
   
 Questions:
   
@@ -25,11 +26,13 @@ Purpose:
 Reference points
 https://en.wikipedia.org/wiki/Stand-up_meeting
 
-AB
+
 SB
-BB
+
 SIMS
 MM 
 What next?
 Whats going on now?
 Whats useful?
+
+rules to rules to delegate digital
