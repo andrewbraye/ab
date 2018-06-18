@@ -30,11 +30,11 @@ Delegation:
 Rubric: 
    5 operationally useful data driven land fast. know where pressure might come from and how we adapt of needed. under 10 minutes. 
    
-| qualities | Purpose |time  |departing |participation|
+| qualities | operational useful  |time  | delegation|participation|
 | -----------: |:-------------:| -----: |-----:| -----:|
-| col 3 is      | right-aligned | $1600 |||
-| col 2 is      | centered      |   $12 |||
-| zebra stripes | are neat      |    $1 |||
+| great| right-aligned | $1600 |||
+| good | centered      |   $12 |||
+| ok for now | are neat      |    $1 |||
 
    4 know whats operatically useful and what 
    3
