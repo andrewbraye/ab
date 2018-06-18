@@ -32,7 +32,7 @@ Rubric:
    
 | qualities | operational useful  |time  | delegation|participation|
 | -----------: |:-------------:| -----: |-----:| -----:|
-| great| right-aligned | $1600 |||
+| great| operational protease are clear and if needed the next most useful person is identified and available |  |||
 | good | centered      |   $12 |||
 | ok for now | are neat      |    $1 |||
 
