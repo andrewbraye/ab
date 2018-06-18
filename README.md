@@ -32,9 +32,9 @@ Rubric:
    
 | qualities | operational useful  |time  | delegation|participation|
 | -----------: |:-------------:| -----: |-----:| -----:|
-| great| operational protease are clear and if needed the next most useful person is identified and available |  |||
-| good | centered      |   $12 |||
-| ok for now | are neat      |    $1 |||
+| great| operational protease are clear and if needed the next most useful person is identified and available | 10 minutes or under |delegated in advance all the obvious things||
+| good | centered      ||||
+| ok for now | are neat      ||||
 
    4 know whats operatically useful and what 
    3
