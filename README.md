@@ -26,7 +26,14 @@ Delegation:
    writing
    
    calender
-   
+
+Rubric: 
+   5 operationally useful data driven land fast. know where pressure might come from and how we adapt of needed. under 10 minutes. 
+   4 know whats operatically useful and what 
+   3
+   2
+   1
+   0 
    
 Board:
 
