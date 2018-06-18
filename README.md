@@ -1,5 +1,7 @@
 # Standup checklist
 Prep:
+
+
 Rounds:
   1) Frank facts
   2) Standup
@@ -15,8 +17,17 @@ Questions:
   
   Work load
   
-Delegation
-
+Delegation:
+   
+   digital
+   
+   clarification
+   
+   writing
+   
+   calender
+   
+   
 Board:
 
 Challenges:
