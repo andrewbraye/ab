@@ -1,9 +1,9 @@
 # SIMS call rubric
 
-|Rounds|Great:-B|Good :-)|Ok :-/|Sad :-(|
+|Rounds|Great :-B|Good :-)|Ok :-/|Sad :-(|
 |-----:|-----:|-----:|-----:|-----:|
-|Checkin|||||
-|Numbers|||||
+|Checkin|Who, where, what, sound check||||
+|Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate||||
 |Updates|||||
 |Emergent Agenda|||||
 |Take Aways|||||
