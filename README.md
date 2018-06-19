@@ -8,7 +8,7 @@
 |Emergent Agenda|||||
 |Take Aways|||||
 
-
+*Qualities of the call*
 |Purpose|||||
 |Time|||||
 |Action Orientated|||||
