@@ -11,7 +11,7 @@
 
 
 
-# 10am Standup checklist
+# 10am Standup rubric
 Prep:
 Rounds:
   1) Frank facts
