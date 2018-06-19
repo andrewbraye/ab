@@ -4,7 +4,7 @@
 |:-----|:-----|:-----|:-----|:-----|
 |Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
 |Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate. Direction of travel of the numbers made clear. eg 27 validators, 2 more last week. ||||
-|Updates|||||
+|Updates|Time proporational, Clarifying questions to make things obvious and actionable. Written and links |Everying talks|||
 |Emergent Agenda|||||
 |Take Aways|||||
   
@@ -14,7 +14,7 @@
 |Time|||||
 |Action Orientated|||||
 |Peer connections|||||
-
+|Sound quality|call quality issues reaised in real time, backups used, mutted by defaul|||background noise not acknoleged and dealt with|
 
 |Qualities|Great|:-)|:-/|:-(|
 |:-----|:-----|:-----|:-----|:-----|
