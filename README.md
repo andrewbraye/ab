@@ -10,7 +10,7 @@
   
 |Qualities|Great :-B|Good :-)|Ok :-/|Sad :-(|
 |:-----|:-----|:-----|:-----|:-----|
-|Purpose|||||
+|Purpose|further the purpose of the group, created energy to deal with issues and deal||||
 |Time|||||
 |Action Orientated|||||
 |Peer connections|||||
@@ -20,18 +20,11 @@
 |:-----|:-----|:-----|:-----|:-----|
 |Purpose|||||
 |Meaningful Numbers|||||
-|Peer|||||
-|Corordiation|||||
+|Peer|All valued||||
+|Corordiation|Calender updated, events acknoleged ||||
 |Collaboration|||||
 |Connection qulaity|||||
-|Time|||||
-
-
-Rounds:
-  1) Checking round
-  2) update round
-  3) Emergent Agenda
-  3) Take Aways
+|Time|<60 min, feels useful, ||||
 
 # Rubric
 https://www.slideshare.net/jigsaw_learning/essential-elements-rubric-ctm
