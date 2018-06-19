@@ -37,7 +37,7 @@ great
    
 Rubric: 
 
-| qualities | operational useful  |time  | delegation|participation|remote|
+| qualities | operational useful  |time  | delegation|participation|
 | -----------: |:-------------:| -----: |-----:| -----:|
 | great| operational protease are clear and if needed the next most useful person is identified and available | 10 minutes or under |delegated in advance all the obvious things||
 | good | centered      ||||
