@@ -4,7 +4,7 @@
 |:-----|:-----|:-----|:-----|:-----|
 |Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
 |Numbers|Meaningful numbers to evolve the groups direction, from:Taksing Manager, Finance, Corporate. Direction of travel of the numbers made clear. eg 27 validators, 2 more last week. ||||
-|Updates|Time proporational, Clarifying questions to make things obvious and actionable. Written and links |Everying talks|||
+|Updates|Time proporational, Clarifying questions to make things obvious and - actionable. - Written and links |Everying talks|||
 |Emergent Agenda|||||
 |Take Aways|||||
   
