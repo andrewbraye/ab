@@ -9,9 +9,9 @@
 |Take Aways|||||
 
 
-|Numbers|||||
+|Purpose|||||
 |Time|||||
-
+|Action Orientated|||||
 
 
 |Qualities|Great|:-)|:-/|:-(|
