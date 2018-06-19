@@ -35,11 +35,12 @@ great
    guests welcomed
    feedback given by at least 3 people
 
-| qualities | operational useful  |time  | delegation|participation||
-| -----------: |:-------------:| -----: |-----:||
-| |  |  |||
-| | ||||
-| ||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
 
 
 Rubric: 
