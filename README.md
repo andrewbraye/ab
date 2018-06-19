@@ -1,22 +1,22 @@
 # SIMS call rubric
 
 |Rounds|Great :-B|Good :-)|Ok :-/|Sad :-(|
-|:-----|:-----|:-----|-----|-----|
-|Checkin|Who, where, what, sound check||||
+|:-----|:-----|:-----|:-----|:-----|
+|Checkin|Who, where, what, sound check|Each person saying something|Acknoleging each person on the call|Not knowing who is on teh call. Guests not introduced.|
 |Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate||||
 |Updates|||||
 |Emergent Agenda|||||
 |Take Aways|||||
   
 |Qualities|Great :-B|Good :-)|Ok :-/|Sad :-(|
-|-----:|-----:|-----:|-----:|-----:|
+|:-----|:-----|:-----|:-----|:-----|
 |Purpose|||||
 |Time|||||
 |Action Orientated|||||
 
 
 |Qualities|Great|:-)|:-/|:-(|
-|-----:|-----:|-----:|-----:|-----:|
+|:-----|:-----|:-----|:-----|:-----|
 |Purpose|||||
 |Meaningful Numbers|||||
 |Peer|||||
