@@ -87,9 +87,9 @@ MM
 What next?
 Whats going on now?
 Whats useful?
-
-rules to rules to delegate digital
-
+ **bold**
+ *Italic*
+Lists
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
