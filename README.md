@@ -9,7 +9,11 @@
 |Connection qulaity|||||
 |Time|||||
 
-
+Rounds:
+  1) Checking round
+  2) update round
+  3) Emergent Agenda
+  3) Take Aways
 
 # 10am Standup rubric
 Prep:
