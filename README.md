@@ -1,11 +1,14 @@
-# 10am Standup checklist
-|Qualities|Great|Good|ok|bad|
+# SIMS call rubric
+|Qualities|Great|:-)|:-/|:-(|
 |-----:|-----:|-----:|-----:|-----:|
 |Purpose|||||
+|Meaningful Numbers|||||
 |Peer|||||
 |Corordiation|||||
 |Collaboration|||||
 |Connection qulaity|||||
+|Time|||||
+
 
 
 # 10am Standup checklist
