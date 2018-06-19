@@ -1,7 +1,7 @@
 # SIMS call rubric
 
 |Rounds|Great :-B|Good :-)|Ok :-/|Sad :-(|
-|:-----|-----:|-----:|-----:|-----:|
+|:-----|:-----|:-----|-----|-----|
 |Checkin|Who, where, what, sound check||||
 |Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate||||
 |Updates|||||
@@ -30,6 +30,9 @@ Rounds:
   2) update round
   3) Emergent Agenda
   3) Take Aways
+
+# Rubric
+https://www.slideshare.net/jigsaw_learning/essential-elements-rubric-ctm
 
 # 10am Standup rubric
 Prep:
@@ -74,16 +77,8 @@ Rubric:
 | good | centered      ||||
 | ok for now | are neat      ||||
 
-   4 know whats operatically useful and what 
-   3
-   2
-   1
-   0 
-   
 Board:
-
 Challenges:
-
 Purpose:
 
 Reference points
