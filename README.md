@@ -7,8 +7,9 @@
 |Updates|||||
 |Emergent Agenda|||||
 |Take Aways|||||
-
-*Qualities of the call*
+  
+|Qualities|Great :-B|Good :-)|Ok :-/|Sad :-(|
+|-----:|-----:|-----:|-----:|-----:|
 |Purpose|||||
 |Time|||||
 |Action Orientated|||||
