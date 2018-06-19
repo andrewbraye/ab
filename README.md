@@ -1,7 +1,15 @@
-# Standup checklist
+# 10am Standup checklist
+|Qualities|Great|Good|ok|bad|
+|-----:|-----:|-----:|-----:|-----:|
+|Purpose|||||
+|Peer|||||
+|Corordiation|||||
+|Collaboration|||||
+|Connection qulaity|||||
+
+
+# 10am Standup checklist
 Prep:
-
-
 Rounds:
   1) Frank facts
   2) Standup
@@ -34,14 +42,6 @@ great
    clear updates
    guests welcomed
    feedback given by at least 3 people
-
-|Qualities|Great|Good|ok|bad|
-|-----:|-----:|-----:|-----:|-----:|
-|Purpose|||||
-|Peer|||||
-|Corordiation|||||
-|Collaboration|||||
-|Connection qulaity|||||
 
 Rubric: 
 
