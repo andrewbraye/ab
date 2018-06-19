@@ -35,8 +35,9 @@ great
    guests welcomed
    feedback given by at least 3 people
 
+||Great|Good|ok|bad|
 |-----:|-----:|-----:|-----:|-----:|
-||||||
+
 ||||||
 ||||||
 ||||||
