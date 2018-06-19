@@ -27,10 +27,17 @@ Delegation:
    
    calender
 
-Rubric: 
-   5 operationally useful data driven land fast. know where pressure might come from and how we adapt of needed. under 10 minutes. 
+great
+   operationally useful
+   data  driven land fast. know where pressure might come from and how we adapt of needed. under 10 minutes. 
+   10 minutes or less
+   clear updates
+   guests welcomed
+   feedback given by at least 3 people
    
-| qualities | operational useful  |time  | delegation|participation|
+Rubric: 
+
+| qualities | operational useful  |time  | delegation|participation|remote|
 | -----------: |:-------------:| -----: |-----:| -----:|
 | great| operational protease are clear and if needed the next most useful person is identified and available | 10 minutes or under |delegated in advance all the obvious things||
 | good | centered      ||||
