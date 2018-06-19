@@ -2,8 +2,8 @@
 
 |Rounds|Great :-B|Good :-)|Ok :-/|Sad :-(|
 |:-----|:-----|:-----|:-----|:-----|
-|Checkin|Who, where, what, sound check|Each person saying something|Acknoleging each person on the call|Not knowing who is on teh call. Guests not introduced.|
-|Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate||||
+|Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
+|Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate. Direction of travel of the numbers made clear. eg 27 validators, 2 more last week. ||||
 |Updates|||||
 |Emergent Agenda|||||
 |Take Aways|||||
@@ -13,6 +13,7 @@
 |Purpose|||||
 |Time|||||
 |Action Orientated|||||
+|Peer connections|||||
 
 
 |Qualities|Great|:-)|:-/|:-(|
