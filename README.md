@@ -9,6 +9,17 @@
 |Connection qulaity|||||
 |Time|||||
 
+|Qualities|Great|:-)|:-/|:-(|
+|-----:|-----:|-----:|-----:|-----:|
+|1)Checkin|||||
+|Meaningful Numbers|||||
+|Peer|||||
+|Corordiation|||||
+|Collaboration|||||
+|Connection qulaity|||||
+|Time|||||
+
+
 Rounds:
   1) Checking round
   2) update round
