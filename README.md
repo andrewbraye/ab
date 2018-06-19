@@ -1,17 +1,22 @@
 # SIMS call rubric
-|Qualities|Great|:-)|:-/|:-(|
+
+|Rounds|Great:-B|Good :-)|Ok :-/|Sad :-(|
 |-----:|-----:|-----:|-----:|-----:|
-|Purpose|||||
-|Meaningful Numbers|||||
-|Peer|||||
-|Corordiation|||||
-|Collaboration|||||
-|Connection qulaity|||||
+|Checkin|||||
+|Numbers|||||
+|Updates|||||
+|Emergent Agenda|||||
+|Take Aways|||||
+
+
+|Numbers|||||
 |Time|||||
+
+
 
 |Qualities|Great|:-)|:-/|:-(|
 |-----:|-----:|-----:|-----:|-----:|
-|1)Checkin|||||
+|Purpose|||||
 |Meaningful Numbers|||||
 |Peer|||||
 |Corordiation|||||
