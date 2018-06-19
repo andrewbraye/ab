@@ -3,7 +3,7 @@
 |Rounds|Great :-B|Good :-)|Ok :-/|Sad :-(|
 |:-----|:-----|:-----|:-----|:-----|
 |Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
-|Numbers|Meaningful numbers to direct, Taksing Manager, Finance, Corporate. Direction of travel of the numbers made clear. eg 27 validators, 2 more last week. ||||
+|Numbers|Meaningful numbers to evolve the groups direction, from:Taksing Manager, Finance, Corporate. Direction of travel of the numbers made clear. eg 27 validators, 2 more last week. ||||
 |Updates|Time proporational, Clarifying questions to make things obvious and actionable. Written and links |Everying talks|||
 |Emergent Agenda|||||
 |Take Aways|||||
@@ -89,3 +89,8 @@ Whats going on now?
 Whats useful?
 
 rules to rules to delegate digital
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
