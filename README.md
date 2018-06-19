@@ -35,14 +35,13 @@ great
    guests welcomed
    feedback given by at least 3 people
 
-||Great|Good|ok|bad|
+|Qualities|Great|Good|ok|bad|
 |-----:|-----:|-----:|-----:|-----:|
-
-||||||
-||||||
-||||||
-||||||
-
+|Purpose|||||
+|Peer|||||
+|Corordiation|||||
+|Collaboration|||||
+|Connection qulaity|||||
 
 Rubric: 
 
