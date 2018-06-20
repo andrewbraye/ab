@@ -1,5 +1,7 @@
 # SIMS call rubric
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 |Rounds|Great|Good|Sad||
 |:-----|:-----|:-----|:-----|:-----|
 |Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
