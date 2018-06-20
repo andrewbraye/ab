@@ -5,11 +5,13 @@
 
 
 ![Image of Yaktocat](http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
+(https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
+
 
 |Rounds|Great|Good|Sad||
 |:-----|:-----|:-----|:-----|:-----|
 |Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
-| Meaningful Numbers | numbers to evolve the groups direction, from:Taksing Manager, Finance, Corporate. Direction of travel of the numbers made clear. eg 27 validators, 2 more last week. ||||
+| Meaningful Numbers |numbers to evolve the groups direction, from:Taksing Manager, Finance, Corporate. Direction of travel of the numbers made cear. eg 27 validators, 2 more last week. ||||
 |Updates|Time proporational, Clarifying questions to make things obvious and - actionable. - Written and links |Everying talks|||
 |Emergent Agenda|||||
 |Take Aways|||||
