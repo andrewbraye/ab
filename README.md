@@ -5,6 +5,9 @@
 
 
 ![Image of Yaktocat](http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
+
+
+![Image of Yaktocat]
 (https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
 
 
