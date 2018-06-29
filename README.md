@@ -2,7 +2,9 @@
 |Role|why|how|what||
 |:-----|:-----|:-----|:-----|:-----|
 |lead|purpolseful balance time and |delegate, defer, decide. |Backup for lead. clear delgation. what||
-|digital |purpolseful balance time and |delegate, defer, decide |Backup for lead clear delgation. what||
+|digital |include digital contrubnitions |delegate, defer, decide |Check and prod for digital contrountions. Slack and skype. ||
+| | | |||
+
 
 Reference points
 https://en.wikipedia.org/wiki/Stand-up_meeting
