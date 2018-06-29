@@ -28,32 +28,12 @@ https://en.wikipedia.org/wiki/Stand-up_meeting
 ![Standup meeting example](https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg)<br>
 - https://hygger.io/blog/what-do-you-know-about-the-daily-kanban-stand-up/
 
-How can we best organise ourselves today? Who, what, when, what next?
+How can we best organise ourselves today in an antifrgile way? Who, what, when, what next?
  - Adaptability: The leader makes each standup their own
  - Optionality: Evolve it over time to make it more effective and enjoyable. 
  - Capability:
-
-
-slack feedback / antifgragile / Learning loops 
-
-# Books / Reference points
-
-ReWork
-- Project Oxygen 
-![](https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg)
-- Project Aristotle 
-![](https://static1.squarespace.com/static/55e83eb9e4b0942f5aeb3f38/t/58497318f7e0ab2a69b43eaf/1481208697158/Aristotle.jpg)
-
-https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg?cb=1401526398
-
-![Image of Yaktocat]
-(http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
-![new power](https://hbr.org/resources/images/article_assets/2014/11/R1412B_C1.png)
-![Image of Yaktocat](https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
-![concentration based decision making]
-(https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
-
-
+ 
+ 
 # SIMS call rubric
 |Rounds|Great|Good|Sad||
 |:-----|:-----|:-----|:-----|:-----|
@@ -81,26 +61,7 @@ https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpa
 |Connection qulaity|||||
 |Time|<60 min, feels useful, ||||
 
-# Rubric
-https://www.slideshare.net/jigsaw_learning/essential-elements-rubric-ctm
-
-# 10am Standup rubric
-Prep:
-Rounds:
-  1) Frank facts
-  2) Standup
-  3) optin 
   
-Questions:
-  
-
-great
-   operationally useful
-   data  driven land fast. know where pressure might come from and how we adapt of needed. under 10 minutes. 
-   10 minutes or less
-   clear updates
-   guests welcomed
-   feedback given by at least 3 people
 
 # Formating
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
