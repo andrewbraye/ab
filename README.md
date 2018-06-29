@@ -4,10 +4,10 @@ How can we best organise ourselves today? Who, what, when, what next?
  - Optionality: Evolve it over time to make it more effective and enjoyable. 
  - Capability:
 
-| Roles: | WHY does it exist? | HOW does it work? | WHAT is actioable? ||
+| Roles: | WHY does it exist? | HOW does it work? | WHAT is actioable? |Rubric|
 |:----|:-------|:------|:------|:------|
-| **Lead** | Keep it purposeful|Create style and tone<br>Make it operationally usfeul and engaging.<br>Welcome guests <br>Set cadence.  |Start and stop the standup.<br>Clear delegation.<br>Feedback on each standup in slack. <br>Decide who leads next week. ||
-|Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and. post feedback in slack |
+| **Lead** |Creat operational understanding and coordination for the entire team. Blockers identified and dealt with |Create style and tone<br>Make it operationally usfeul and engaging.<br>Welcome guests <br>create and adjust cadence.  |Start and stop the standup.<br>Clear delegation, defering and deciding.<br>Feedback on standup in slack. <br>Decide who leads next week.|Updates <10 min <br> People feel they know how to me most operationally useful today. The team knows whats comming up. <br> Guests feel wecomed and they have context.|
+|**Backup**|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and. post feedback in slack |
 |Digital and remote updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
 |Writer | capture, clarify, orientate ||| board. table. stationary |
 |*claricication and context*|Are updates concise and specific enough to be actionable and educational ||||
