@@ -39,11 +39,10 @@ https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpa
 (https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
 
 Project Oxygen
-![Re:Work - Google Project Oxygen]
-(https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg)
+![Re:Work - Google Project Oxygen](https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg)
 
-https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg
-
+Project Aristotle
+https://static1.squarespace.com/static/55e83eb9e4b0942f5aeb3f38/t/58497318f7e0ab2a69b43eaf/1481208697158/Aristotle.jpg
 
 # SIMS call rubric
 |Rounds|Great|Good|Sad||
