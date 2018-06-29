@@ -1,11 +1,8 @@
 # Standup at 10am
 This is Andrew's version of what works
- - The leader makes each standup their own. 
- - Evolve it over time to make it more effective and enjoyable. 
-
-1) one
-⋅⋅* Unordered sub-list. 
-
+ - Adaptability: The leader makes each standup their own. 
+ - Optionality: Evolve it over time to make it more effective and enjoyable. 
+ - Capability:
 
 | Roles: | why does it exist? | How does it work? | What is actioable? ||
 |:-----|:-----|:-----|:-----|:-----|
