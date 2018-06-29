@@ -1,14 +1,19 @@
-# Standup
-|role|why|how|what||
-|:-----|:-----|:-----|:-----|:-----|
-|lead|purpolseful balance time and. is it opertationally useful? Energy levels. Introduce new people |delegate, defer, decide. |Backup for lead. clear delgation. what. Decide who next week||
-|Backup|||||
-|digital |include digital contrubnitions |delegate, defer, decide |Check and prod for digital contrountions. Slack and skype. ||
-|writer|capture, clarify, orientate|||board. table. stationary|
-|calender|||||
-|claricication?|||||
-||||||
 
+# Standup
+Andrews understanding for what works based on the team feedback in slack. 
+ - The leader makes each there own. 
+ - Evolve it over time to make it more effective and enjoyable. 
+
+| role | why | how | what ||
+|:-----|:-----|:-----|:-----|:-----|
+| lead | purposeful balance time and. is it operationally useful? Energy levels. Introduce new people. Welcome guests | delegate, defer, decide. |Backup for lead. clear delegation. what. Decide who next week. feedback into slack ||
+|Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and |
+| digital | |Likely to be remote person. delegate, defer, decide |||
+|Digital updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
+| writer | capture, clarify, orientate ||| board. table. stationary |
+||||||
+|claricication?|Are updates concise and specific enough to be actionable and educational ||||
+||||||
 
 Reference points
 https://en.wikipedia.org/wiki/Stand-up_meeting
