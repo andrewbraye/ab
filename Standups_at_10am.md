@@ -13,8 +13,8 @@
 - Any blockers?
 
 | Roles: | WHY does it exist? | HOW does it work? | WHAT is actionable? |Rubric|
-|:----|:-------|:------|:------|:------|
-| **Lead** |Creat operational context and coordination for the team. <br>Workload of individuals and the team balanced out.  <br>Blockers identified and dealt with. |Create the style and tone of the standup <br>Make it operationally useful and engaging.<br>Welcome guests <br>create and adjust cadence.  |Start and stop the standup.<br>Clear delegation, deferring and deciding.<br>Feedback on standup in slack. <br>Decide who leads next week.|Updates <10 min <br>Context created. Blockers removed. Workload balanced. People feel they know how to me most operationally useful today.<br>"Opt in" updates and Take away space provided created as is useful.  <br>The team knows whats coming up. <br>Guests feel welcomed and have context.|
+|:----|:-------|:-------|:-------|:-------|
+| **Lead** |Creat operational context and coordination for the team. <br>Workload of individuals and the team balanced out.  <br>Blockers identified and dealt with. |Create the style and tone of the standup <br>Make it operationally useful and engaging.<br>Welcome guests <br>create and adjust cadence.  |Start and stop the standup.<br>Clear delegation, deferring and deciding whenever the answer is not obvous<br>Feedback on standup in slack. <br>Decide who leads next week. <br> Handover learnings to the next lead.|Updates section <10 min <br>Context created. Blockers removed. Workload balanced. People feel they know how to me most operationally useful today.<br>"Opt in" updates and Take away space provided created as is useful.  <br>The team knows whats coming up. <br>Guests feel welcomed and have context.|
 |** Learner and Backup **| backup for the lead and learn the lead role | takes over seamlessness | used for the key roles as writer or digital updates because they are ready and. post feedback in slack |Able to pickup the lead role with no notice. <br>supports the lead in the background with anything that is missed. Helps the lead learn with feedback on the stabndup |
 |Digital and remote updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
 |Writer | capture, clarify, orientate ||| board. table. stationary |
@@ -28,17 +28,13 @@ https://en.wikipedia.org/wiki/Stand-up_meeting
 ![Standup meeting example](https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg)<br>
 - https://hygger.io/blog/what-do-you-know-about-the-daily-kanban-stand-up/
 
-
 How can we best organise ourselves today? Who, what, when, what next?
  - Adaptability: The leader makes each standup their own
  - Optionality: Evolve it over time to make it more effective and enjoyable. 
  - Capability:
 
 
-  
 slack feedback / antifgragile / Learning loops 
-
-
 
 # Books / Reference points
 
