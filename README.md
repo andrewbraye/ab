@@ -1,9 +1,13 @@
 # Standup
-|Role|why|how|what||
+|role|why|how|what||
 |:-----|:-----|:-----|:-----|:-----|
-|lead|purpolseful balance time and |delegate, defer, decide. |Backup for lead. clear delgation. what||
+|lead|purpolseful balance time and. is it opertationally useful? Energy levels. Introduce new people |delegate, defer, decide. |Backup for lead. clear delgation. what. Decide who next week||
+|Backup|||||
 |digital |include digital contrubnitions |delegate, defer, decide |Check and prod for digital contrountions. Slack and skype. ||
-| | | |||
+|writer|capture, clarify, orientate|||board. table. stationary|
+|calender|||||
+|claricication?|||||
+||||||
 
 
 Reference points
