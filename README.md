@@ -6,7 +6,7 @@ How can we best organise ourselves today? Who, what, when, what next?
 
 | Roles: | WHY does it exist? | HOW does it work? | WHAT is actioable? ||
 |:----|:-------|:------|:------|:------|
-| **Lead** | Keep it purposeful|<ul><li>Create style and tone<li>Curate it's operationally and engaging.<li>Welcome guests <li>Set cadence.  |Backup for lead. clear delegation. what. Decide who next week. feedback on each standup in slack ||
+| **Lead** | Keep it purposeful|Create style and tone<br>Make it operationally usfeul and engaging.<br>Welcome guests <br>Set cadence.  |Start and stop the standup.<br>Clear delegation.<br>Feedback on each standup in slack. <br>Decide who leads next week. ||
 |Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and. post feedback in slack |
 | digital | |Likely to be remote person. delegate, defer, decide |||
 |Digital updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
