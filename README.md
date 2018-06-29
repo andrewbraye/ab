@@ -1,9 +1,5 @@
 # SIMS call rubric
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
-
 ![Image of Yaktocat](http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
 
 ![new power](https://hbr.org/resources/images/article_assets/2014/11/R1412B_C1.png)
