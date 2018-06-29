@@ -38,6 +38,13 @@ https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpa
 ![concentration based decision making]
 (https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
 
+Project Oxygen
+![Re:Work - Google Project Oxygen]
+(https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg)
+
+https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg
+
+
 # SIMS call rubric
 |Rounds|Great|Good|Sad||
 |:-----|:-----|:-----|:-----|:-----|
