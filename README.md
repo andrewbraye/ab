@@ -3,6 +3,7 @@ This is Andrew's version of what works
  - The leader makes each standup their own. 
  - Evolve it over time to make it more effective and enjoyable. 
 
+1) one
 ⋅⋅* Unordered sub-list. 
 
 
