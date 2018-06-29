@@ -1,5 +1,5 @@
 
-# Standup
+# Standup at 10am
 Andrews understanding for what works based on the team feedback in slack. 
  - The leader makes each there own. 
  - Evolve it over time to make it more effective and enjoyable. 
@@ -17,15 +17,30 @@ Andrews understanding for what works based on the team feedback in slack.
 
 Reference points
 https://en.wikipedia.org/wiki/Stand-up_meeting
+Basics =   What did you do yesterday?
+  
+  What are you doing today?
+  
+  Any blockers?
+  
+  Work load
+  
 slack feedback / antifgragile / Learning loops 
 
+
+
 # Books
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
+![Standup meeting example](https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg)
+
+https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg?cb=1401526398
+
+![Image of Yaktocat]
+(http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
 ![new power](https://hbr.org/resources/images/article_assets/2014/11/R1412B_C1.png)
 ![Image of Yaktocat](https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
 ![concentration based decision making]
 (https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
+
 # SIMS call rubric
 |Rounds|Great|Good|Sad||
 |:-----|:-----|:-----|:-----|:-----|
@@ -65,23 +80,6 @@ Rounds:
   
 Questions:
   
-  What did you do yesterday?
-  
-  What are you doing today?
-  
-  Any blockers?
-  
-  Work load
-  
-Delegation:
-   
-   digital
-   
-   clarification
-   
-   writing
-   
-   calender
 
 great
    operationally useful
@@ -91,18 +89,6 @@ great
    guests welcomed
    feedback given by at least 3 people
 
-Rubric: 
-
-| qualities | operational useful  |time  | delegation|participation|
-| -----------: |:-------------:| -----: |-----:| -----:|
-| great| operational protease are clear and if needed the next most useful person is identified and available | 10 minutes or under |delegated in advance all the obvious things||
-| good | centered      ||||
-| ok for now | are neat      ||||
-
-Board:
-Challenges:
-Purpose:
-
 
 SB
 
@@ -111,7 +97,15 @@ MM
 What next?
 Whats going on now?
 Whats useful?
- **bold**
+
+# Formating
+Table?
+Bullet points?
+Picutre
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+**bold**
  *Italic*
 Lists
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
