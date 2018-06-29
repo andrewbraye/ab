@@ -4,10 +4,10 @@ This is Andrew's version of what works
  - The leader makes each standup their own. 
  - Evolve it over time to make it more effective and enjoyable. 
 
-| Role | why | how | what ||
+| Roles: | why does it exist? | How does it work? | What is actioable? ||
 |:-----|:-----|:-----|:-----|:-----|
-| **Lead** | purposeful balance time and. is it operationally useful? Energy levels. Introduce new people. Welcome guests. Create style and tone. cadence | delegate, defer, decide. |Backup for lead. clear delegation. what. Decide who next week. feedback into slack ||
-|Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and |
+| **Lead** | Create style and tone. Curate it's operationally and engaging. Welcome guests. Set cadence. | delegate, defer, decide. |Backup for lead. clear delegation. what. Decide who next week. feedback on each standup in slack ||
+|Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and. post feedback in slack |
 | digital | |Likely to be remote person. delegate, defer, decide |||
 |Digital updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
 | writer | capture, clarify, orientate ||| board. table. stationary |
@@ -17,12 +17,10 @@ This is Andrew's version of what works
 
 Reference points
 https://en.wikipedia.org/wiki/Stand-up_meeting
+![Standup meeting example](https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg)
 Basics =   What did you do yesterday?
-  
   What are you doing today?
-  
   Any blockers?
-  
   Work load
   
 slack feedback / antifgragile / Learning loops 
@@ -30,7 +28,6 @@ slack feedback / antifgragile / Learning loops
 
 
 # Books
-![Standup meeting example](https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg)
 
 https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg?cb=1401526398
 
@@ -99,12 +96,11 @@ Whats going on now?
 Whats useful?
 
 # Formating
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Table?
 Bullet points?
 Picutre
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
 **bold**
  *Italic*
 Lists
