@@ -1,12 +1,12 @@
 
 # Standup at 10am
-Andrews understanding for what works based on the team feedback in slack. 
- - The leader makes each there own. 
+This is Andrew's version of what works
+ - The leader makes each standup their own. 
  - Evolve it over time to make it more effective and enjoyable. 
 
-| role | why | how | what ||
+| Role | why | how | what ||
 |:-----|:-----|:-----|:-----|:-----|
-| lead | purposeful balance time and. is it operationally useful? Energy levels. Introduce new people. Welcome guests | delegate, defer, decide. |Backup for lead. clear delegation. what. Decide who next week. feedback into slack ||
+| **Lead** | purposeful balance time and. is it operationally useful? Energy levels. Introduce new people. Welcome guests. Create style and tone. cadence | delegate, defer, decide. |Backup for lead. clear delegation. what. Decide who next week. feedback into slack ||
 |Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and |
 | digital | |Likely to be remote person. delegate, defer, decide |||
 |Digital updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
