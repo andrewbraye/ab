@@ -8,11 +8,10 @@ How can we best organise ourselves today? Who, what, when, what next?
 |:----|:-------|:------|:------|:------|
 | **Lead** | Keep it purposeful|Create style and tone<br>Make it operationally usfeul and engaging.<br>Welcome guests <br>Set cadence.  |Start and stop the standup.<br>Clear delegation.<br>Feedback on each standup in slack. <br>Decide who leads next week. ||
 |Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and. post feedback in slack |
-| digital | |Likely to be remote person. delegate, defer, decide |||
-|Digital updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
-| writer | capture, clarify, orientate ||| board. table. stationary |
-||||||
-|claricication?|Are updates concise and specific enough to be actionable and educational ||||
+|Digital and remote updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
+|Writer | capture, clarify, orientate ||| board. table. stationary |
+|*claricication and context*|Are updates concise and specific enough to be actionable and educational ||||
+|*Calender*|||||
 ||||||
 
 Reference points
