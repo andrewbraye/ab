@@ -6,7 +6,7 @@ This is Andrew's version of what works
 
 | Roles: | why does it exist? | How does it work? | What is actioable? ||
 |:-----|:-----|:-----|:-----|:-----|
-| **Lead** | * Create style and tone. * Curate it's operationally and engaging. Welcome guests. Set cadence. | delegate, defer, decide. |Backup for lead. clear delegation. what. Decide who next week. feedback on each standup in slack ||
+| **Lead** | <ul><li>Create style and tone<li>Curate it's operationally and engaging.<li>Welcome guests <li>Set cadence. | <ul><li>delegate</li><li>defer</li></ul> decide |Backup for lead. clear delegation. what. Decide who next week. feedback on each standup in slack ||
 |Backup|backup for the lead | takes over seamlessness || often likely to be used for the key roles as writer or digital updates because they are ready and. post feedback in slack |
 | digital | |Likely to be remote person. delegate, defer, decide |||
 |Digital updates | include digital contributions ||. done by remote node. Check and prod for digital contributions. Slack and whatever else (Skype zoom. The chat for the live feed.||
@@ -27,7 +27,13 @@ slack feedback / antifgragile / Learning loops
 
 
 
-# Books
+# Books / Reference points
+
+ReWork
+- Project Oxygen 
+![](https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg)
+- Project Aristotle 
+![](https://static1.squarespace.com/static/55e83eb9e4b0942f5aeb3f38/t/58497318f7e0ab2a69b43eaf/1481208697158/Aristotle.jpg)
 
 https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpapp01/95/kanban-an-alternative-path-to-agility-lean-kanban-southern-europe-2014-40-638.jpg?cb=1401526398
 
@@ -38,11 +44,6 @@ https://image.slidesharecdn.com/lkse14andersonaltpathtoagility-140531085050-phpa
 ![concentration based decision making]
 (https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
 
-- Project Oxygen
-https://i.pinimg.com/originals/a0/58/30/a05830e6064b78dce532cfd9978bd955.jpg
-
-- Project Aristotle
-https://static1.squarespace.com/static/55e83eb9e4b0942f5aeb3f38/t/58497318f7e0ab2a69b43eaf/1481208697158/Aristotle.jpg
 
 # SIMS call rubric
 |Rounds|Great|Good|Sad||
@@ -92,23 +93,15 @@ great
    guests welcomed
    feedback given by at least 3 people
 
-
-SB
-
-SIMS
-MM 
-What next?
-Whats going on now?
-Whats useful?
-
 # Formating
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-Table?
-Bullet points?
-Picutre
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 **bold**
- *Italic*
+
+*Italic*
+
 Lists
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
