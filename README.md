@@ -1,7 +1,8 @@
 # Standup
 |Role|why|how|what||
 |:-----|:-----|:-----|:-----|:-----|
-|Role|why|how|what||
+|lead|purpolseful balance time and |delegate, defer, decide. |Backup for lead. clear delgation. what||
+|digital |purpolseful balance time and |delegate, defer, decide |Backup for lead clear delgation. what||
 
 Reference points
 https://en.wikipedia.org/wiki/Stand-up_meeting
