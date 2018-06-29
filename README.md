@@ -1,15 +1,20 @@
-# SIMS call rubric
+# Standup
+|Role|why|how|what||
+|:-----|:-----|:-----|:-----|:-----|
+|Role|why|how|what||
+
+Reference points
+https://en.wikipedia.org/wiki/Stand-up_meeting
+slack feedback / antifgragile / Learning loops 
+
+# Books
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of Yaktocat](http://fclive2013.flatclassroomproject.wikispaces.net/file/view/Pitch%20Rubric.png/434586284/800x434/Pitch%20Rubric.png)
-
 ![new power](https://hbr.org/resources/images/article_assets/2014/11/R1412B_C1.png)
-
 ![Image of Yaktocat](https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
-
 ![concentration based decision making]
 (https://www.solutionsiq.com/images/gp_sociocracy_sidebar-resized-600.gif)
-
-
+# SIMS call rubric
 |Rounds|Great|Good|Sad||
 |:-----|:-----|:-----|:-----|:-----|
 |Checkin|Who, where, role, social sound check|Each person saying something|Acknoleging each person on the call, eg saying "Hi"|Not knowing who is on teh call. Guests not introduced.|
@@ -85,9 +90,6 @@ Rubric:
 Board:
 Challenges:
 Purpose:
-
-Reference points
-https://en.wikipedia.org/wiki/Stand-up_meeting
 
 
 SB
