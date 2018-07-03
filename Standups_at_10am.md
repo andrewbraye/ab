@@ -12,7 +12,7 @@
 - Work load?
 - Any blockers?
 
-| Roles: | WHY does it exist? | HOW does it work? | WHAT is actionable? |Rubric|
+| Roles: | Why | How | what |RUBRIC|
 |:----|:-------|:-------|:-------|:-------|
 | **Lead** |Creat operational context and coordination for the team. <br>Workload of individuals and the team balanced out.  <br>Blockers identified and dealt with. |Create the style and tone of the standup <br>Make it operationally useful and engaging.<br>Welcome guests <br>create and adjust cadence.  |Start and stop the standup.<br>Clear delegation, deferring and deciding whenever the answer is not obvous<br>Feedback on standup in slack. <br>Decide who leads next week. <br> Handover learnings to the next lead.|Updates section <10 min <br>Context created. Blockers removed. Workload balanced. People feel they know how to me most operationally useful today in a **safe sapce**.<br><br>Create space for "Opt in" updates and Take away space provided created as is useful.  <br>The team knows whats coming up. <br>Guests feel welcomed and have context.|
 |** Learner and Backup **| backup for the lead and learn the lead role | takes over seamlessness | used for the key roles as writer or digital updates because they are ready and. post feedback in slack |Able to pickup the lead role with no notice. <br>supports the lead in the background with anything that is missed. Helps the lead learn with feedback on the stabndup |
